@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renderiza contador corretamente 1`] = `
+<DocumentFragment>
+  <div
+    class="counter-container"
+  >
+    <h1>
+      Contador Sankhya
+    </h1>
+    <div
+      class="container"
+    >
+      <button
+        class="btn btn-decrease"
+      >
+        -
+      </button>
+      <span
+        class="result "
+      >
+        0
+      </span>
+      <button
+        class="btn btn-increase"
+      >
+        +
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

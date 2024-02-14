@@ -16,7 +16,7 @@ const Counter = () => {
 
     return (
         <div className={"counter-container"}>
-            <h1>Contador</h1>
+            <h1>Contador Sankhya</h1>
             <div className={"container"}>
                 <button className={"btn btn-decrease"} onClick={decrement}>-</button>
                 <span className={`result ${getCounterClass(count)}`}>{count}</span>
